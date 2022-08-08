@@ -1,5 +1,6 @@
 package it.epicode.be.trasporti.model;
 
 public class Utente {
-	//ciao a tutti
+	private String nome;
+  //ciao a tutti
 }
