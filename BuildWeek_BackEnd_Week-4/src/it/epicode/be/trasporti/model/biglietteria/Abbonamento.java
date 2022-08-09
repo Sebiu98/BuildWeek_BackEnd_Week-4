@@ -1,7 +1,9 @@
-package it.epicode.be.trasporti.model;
+package it.epicode.be.trasporti.model.biglietteria;
 
 import java.time.LocalDate;
 import javax.persistence.Entity;
+
+import it.epicode.be.trasporti.model.Utente;
 
 @Entity
 public class Abbonamento extends TitoliViaggio {
