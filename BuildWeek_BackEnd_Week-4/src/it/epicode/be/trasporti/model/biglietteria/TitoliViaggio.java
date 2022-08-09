@@ -1,4 +1,4 @@
-package it.epicode.be.trasporti.model;
+package it.epicode.be.trasporti.model.biglietteria;
 
 import java.time.LocalDate;
 
